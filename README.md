@@ -1,1 +1,1 @@
-![KEJ94's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEJ94&theme=algolia&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEJ94&layout=compact&theme=algolia)
+![KEJ94's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEJ94&theme=default&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEJ94&layout=compact&theme=default)
