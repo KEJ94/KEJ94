@@ -1,2 +1,1 @@
-### 📚 Tech Stack
-<img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+![KEJ94's GitHub stats](https://github-readme-stats.vercel.app/api?username=KEJ94&theme=algolia&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEJ94&layout=compact&theme=algolia)
